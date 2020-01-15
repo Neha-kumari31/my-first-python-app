@@ -18,6 +18,11 @@ Then navigate there from the command line (subsequent commands assume you are ru
 cd my-first-python-app
 ```
 
+
+
+
+
+
 Use Anaconda to create and activate a new virtual environment, perhaps called "game-env":
 
 ```sh
